@@ -4,6 +4,6 @@ Designed for the User Experience Academy selection by COMPFEST, this Figma proto
 
 Click here to view prototype:  
 <br>  
-<a href="https://www.figma.com/proto/](https://www.figma.com/proto/35uGDkukLEo0S6Qdtc8r48/Redesign-Web-X?node-id=503-777&t=qLUIMqlNdPHippLF-1" target="_blank">
+<a href="https://www.figma.com/proto/35uGDkukLEo0S6Qdtc8r48/Redesign-Web-X?node-id=503-777&t=qLUIMqlNdPHippLF-1" target="_blank">
   <img src="web-x-redesign-button.svg" alt="View Prototype">
 </a>
