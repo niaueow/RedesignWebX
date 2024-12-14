@@ -1,4 +1,4 @@
-# RedesignWebX
+# Web X Redesign
 
 Designed for the User Experience Academy selection by COMPFEST, this Figma prototype presents an intuitive redesign of Web X, guided by Shneiderman's 8 Golden Rules to enhance usability, accessibility, and user experience.
 
